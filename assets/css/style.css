@@ -42,7 +42,7 @@ p {
     border-left: 2px solid #60606155;
 }
 
-.gallary_content {
+.gallery_content {
     margin-left: 47px;
 }
 
@@ -159,16 +159,17 @@ img.img-fluid.profile {
 
 
 .button_profile.mt-4 button {
+    outline: none;
     border: none;
-    padding: 5px 10px;
-    background: lightblue;
-    border-radius: 3px;
+    padding: 15px 40px;
+    border-radius: 50px;
+    background-color: rgb(0, 53, 128);
 }
 
 .gallery_text_content h4 {
-    font-size: 25px;
+    /* font-size: 25px;
     font-weight: 700;
-    color: #606061d7;
+    color: #606061d7; */
 }
 
 .container,
